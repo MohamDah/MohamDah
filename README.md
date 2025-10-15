@@ -31,7 +31,7 @@ Right now, I'm diving deep into **Next.js, React, Tailwind CSS, and TypeScript**
 ## 🌱 Current Focus
 - Mastering **Next.js** and full-stack development  
 - Building a strong **portfolio** of real-world projects  
-- Preparing for opportunities in **web development roles** (open to the Gulf region & beyond)
+- Preparing for opportunities in **web development roles**
 
 ---
 
