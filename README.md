@@ -40,7 +40,7 @@ If you like my work or want to support my journey:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamdah)
 
-Or become a GitHub sponsor.
+Or become a GitHub sponsor
 
 ---
 
