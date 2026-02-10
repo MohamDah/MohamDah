@@ -8,7 +8,7 @@ Right now, I'm diving deep into **Next.js, React, Tailwind CSS, and TypeScript**
 ## 🚀 About Me
 - 🌍 From **Sudan**, currently based in **Rwanda**  
 - 📚 In my **second year** of a Software Engineering degree  
-- 🧑‍💻 Passionate about **frontend development** and crafting clean, functional UIs    
+- 🧑‍💻 Passionate about **fullstack development**    
 - 💡 Always learning, experimenting, and building
 
 ---
